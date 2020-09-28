@@ -1,0 +1,75 @@
+{
+    "Assult_rifles": {
+        "iw8_ar_sierra552" : "Grau 556",
+        "iw8_ar_galima" : "CR-56 AMAX",
+        "iw8_ar_asierra12" : "Oden",
+        "iw8_ar_scharlie" : "FN Scar 17",
+        "iw8_ar_kilo433" : "Kilo 141",
+        "iw8_ar_akilo47" : "AK-47",
+        "iw8_ar_mcharlie" : "M13",
+        "iw8_ar_falpha" : "FR 5.56",
+        "iw8_ar_anovember94" : "AN-94",
+        "iw8_ar_mike4" : "M4A1",
+        "iw8_ar_tango21" : "Ram-7",
+        "iw8_ar_falima" : "FAL"
+    },
+    "SMG" : {
+        "iw8_sm_mpapa7": "MP7",
+        "iw8_sm_augolf" : "AUG",
+        "iw8_sm_papa90" : "P90",
+        "iw8_sm_charlie9" : "",
+        "iw8_sm_mpapa5" : "MP5",
+        "iw8_sm_smgolf45" : "",
+        "iw8_sm_beta" : "PP19 Bizon",
+        "iw8_sm_victor" : "",
+        "iw8_sm_uzulu" : "Uzi"
+
+    },
+    "Shotgun" : {
+        "iw8_sh_mike26" : "Model 680",
+        "iw8_sh_charlie725" : "725",
+        "iw8_sh_oscar12" : "Origin 12",
+        "iw8_sh_romeo870" : "Model 680",
+        "iw8_sh_dpapa12" : "R9 0"
+    },
+    "Marksman" : {
+        "iw8_sn_sbeta" : "MK2 Carbine",
+        "iw8_sn_crossbow" : "Crossbow",
+        "iw8_sn_kilo98" : "Kar98k",
+        "iw8_sn_mike14" : "EBR-14",
+        "iw8_sn_sksierra" : "SKS"
+
+    },
+    "Sniper" : {
+        "iw8_sn_alpha50" : "AX-50",
+        "iw8_sn_hdromeo" : "HDR",
+        "iw8_sn_delta:" : "Dragunov",
+        "iw8_sn_xmike109" : "Rytec AMR"
+    },
+    "LMG" : {
+        "iw8_lm_kilo121" : "M91",
+        "iw8_lm_mkilo3" : "Bruen MK9",
+        "iw8_lm_mgolf34" : "MG34",
+        "iw8_lm_lima86" : "SA87",
+        "iw8_lm_pkilo" : "PKM",
+        "iw8_lm_sierrax" : "FiNN",
+        "iw8_lm_mgolf36:" : "Holger-26"
+    },
+    "Pistol" : {
+        "iw8_pi_cpapa" : ".357",
+        "iw8_pi_mike9" : "Renetti",
+        "iw8_pi_mike1911" : "1911",
+        "iw8_pi_golf21" : "X16",
+        "iw8_pi_decho" : ".50 GS",
+        "iw8_pi_papa320" : "M19"
+    },
+    "Launcher" : {
+        "iw8_la_gromeo" : "PILA",
+        "iw8_la_rpapa7" : "RPG-7",
+        "iw8_la_juliet" : "JOKR",
+        "iw8_la_kgolf" : "Strela-P",
+        "iw8_la_mike32" : ""
+    }
+}
+
+
